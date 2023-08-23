@@ -1,6 +1,6 @@
 {
   "name": "notyf",
-  "version": "3.10.0",
+  "version": "3.11.0",
   "description": "A dead simple, responsive, a11y, dependency-free, vanilla JavaScript toast library.",
   "keywords": [
     "javascript",
@@ -33,12 +33,11 @@
     "babel": "^6.23.0",
     "css-loader": "^2.1.0",
     "cssnano": "^4.1.10",
-    "cypress": "^3.1.5",
+    "cypress": "^12.1.5",
     "del": "^2.2.2",
-    "fs": "0.0.1-security",
     "lite-server": "^2.4.0",
     "mini-css-extract-plugin": "^0.5.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^9.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",

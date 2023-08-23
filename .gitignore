@@ -43,4 +43,5 @@ Thumbs.db
 
 # Cypress files
 cypress/screenshots
+cypress/downloads
 .vscode
